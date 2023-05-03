@@ -8,7 +8,7 @@ https://github.com/BibleTools/commentary_59_James_English
 
 請注意：
 
-1. 各使用者請在我們訂下的 [license](https://github.com/BibleTools/commentary_59_James_TraditionalChinese/blob/main/README.md#license) 範圍內使用，切勿用作商業用途，如有違反我們訂下的 [license](https://github.com/BibleTools/commentary_59_James_TraditionalChinese/blob/main/README.md#license) 範圍，我們保留追究的權利。
+1. 各使用者請在我們訂下的 [license](https://github.com/BibleTools/commentary_59_James_TraditionalChinese/blob/main/README.md#license) 範圍內使用。切勿用作商業用途，如有違反我們訂下的 [license](https://github.com/BibleTools/commentary_59_James_TraditionalChinese/blob/main/README.md#license) 範圍，我們保留追究的權利。
 2. 我們現在提供的中文翻譯是通過電腦人工智能翻譯，而還沒有經過修改的中文初稿。所以，當中內容會有偏差甚至可能出錯。我們將會進一步修改，但在此之前，請參考原來英文版的內容對照使用，或可減低出錯的機會。
 
 # GospelChurch.uk Bible Commentary - James
